@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\RiderProjects\\Messanger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3834C942-05E5-473F-BF04-4AD574171842}|Messanger.ConsoleClient\\Messanger.ConsoleClient.csproj|c:\\development\\riderprojects\\messanger\\messanger.consoleclient\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834C942-05E5-473F-BF04-4AD574171842}|Messanger.ConsoleClient\\Messanger.ConsoleClient.csproj|solutionrelative:messanger.consoleclient\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3834C942-05E5-473F-BF04-4AD574171842}|Messanger.ConsoleClient\\Messanger.ConsoleClient.csproj|c:\\development\\riderprojects\\messanger\\messanger.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3834C942-05E5-473F-BF04-4AD574171842}|Messanger.ConsoleClient\\Messanger.ConsoleClient.csproj|solutionrelative:messanger.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\RiderProjects\\Messanger\\Messanger.ConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "Messanger.ConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Development\\RiderProjects\\Messanger\\Messanger.ConsoleClient\\Program.cs",
+              "RelativeToolTip": "Messanger.ConsoleClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:22:18.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Development\\RiderProjects\\Messanger\\Messanger.ConsoleClient\\Message.cs",
+              "RelativeDocumentMoniker": "Messanger.ConsoleClient\\Message.cs",
+              "ToolTip": "C:\\Development\\RiderProjects\\Messanger\\Messanger.ConsoleClient\\Message.cs",
+              "RelativeToolTip": "Messanger.ConsoleClient\\Message.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:28:43.756Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
